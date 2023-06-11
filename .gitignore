@@ -1,0 +1,4 @@
+venv/
+chromedriver_mac_arm64/
+.DS_Store
+.idea/
